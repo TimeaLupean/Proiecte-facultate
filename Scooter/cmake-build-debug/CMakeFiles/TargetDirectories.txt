@@ -1,0 +1,3 @@
+C:/Users/timea/OneDrive/Desktop/Proiecte facultate/Scooter/cmake-build-debug/CMakeFiles/Scooter.dir
+C:/Users/timea/OneDrive/Desktop/Proiecte facultate/Scooter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/timea/OneDrive/Desktop/Proiecte facultate/Scooter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

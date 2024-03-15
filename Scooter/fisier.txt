@@ -1,0 +1,10 @@
+123,Lime,2022.03.12,99,Str.Donath,parked
+124,Bolt,2021.06.12,200,Str.13Septembrie,parked
+125,Lime,2020.12.05,156,Str.Parang,in_use
+126,Lime,2023.06.07,341,Str.Cojocnei,reserved
+127,Bolt,2013.12.03,599,Str.Donath,in_use
+128,Lime,2002.12.03,400,Str.Ploiesti,in_use
+129,Bolt,2020.09.01,199,Str.DealulFurcilor,reserved
+130,Lime,2021.07.06,201,Str.13Decembrie,out_of_order
+131,Bolt,2022.02.04,199,Str.Govora,waiting
+149,Lime,2023.03.10,204,Str.Brukenthal,in_use

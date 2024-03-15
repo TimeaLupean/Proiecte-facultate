@@ -1,0 +1,8 @@
+# ninja log v5
+10	753	7321985578720274	CMakeFiles/Scooter.dir/Domain.cpp.obj	cf4ca7b240ae9183
+20	1159	7321985582801907	CMakeFiles/Scooter.dir/InMemoryRepo.cpp.obj	44f101360fcb1f36
+51	1176	7321985582967197	CMakeFiles/Scooter.dir/app.cpp.obj	453a1fcbf55d3985
+1	1202	7321985583257185	CMakeFiles/Scooter.dir/UI.cpp.obj	2f0089b3f785c640
+40	1254	7321985583807311	CMakeFiles/Scooter.dir/Controller.cpp.obj	4ee584f5663a2be
+30	1352	7321985584792772	CMakeFiles/Scooter.dir/CSVFileRepo.cpp.obj	6f739be60fed81af
+1352	1697	7321985588113474	Scooter.exe	f8f54fa6a25e217d
